@@ -21,11 +21,9 @@ Fantástico sistema com:
 
 * **Luca E. Medeiros** *Estudante universitário*
 
-* [Github](https://github.com/lucaem)
-
 * [Linkedin](https://www.linkedin.com/in/luca-estrella-medeiros/)
 * [WhatsApp](https://api.whatsapp.com/send?phone=5567999977177)
-* luca.em78@mail.com
+* luca.em78@gmail.com
 
 ### licença
 
