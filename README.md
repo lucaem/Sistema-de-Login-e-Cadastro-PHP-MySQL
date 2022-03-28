@@ -1,4 +1,4 @@
-# Sistema de cadastro 🖥
+# Sistema de Login e Cadastro - PHP & MySQL 🖥
 Fantástico sistema com:
 <br>
 <ul>
@@ -11,9 +11,7 @@ Fantástico sistema com:
   <li>Deleção de Registros</li>
   <li>Pesquisa</li>
   <li>...</li>
-</ul>
-<br> 
-
+</ul> 
 ### Prototipagem 
 
 ![GIF](GitHub/sistemacadastrophp.gif)
